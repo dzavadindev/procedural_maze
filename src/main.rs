@@ -1,3 +1,7 @@
+// mod graph;
+// mod linked_list;
+mod training;
+
 fn main() {
-    println!("Hello, world!");
+    training::run_training_one();
 }
